@@ -1,4 +1,4 @@
-# Worker Fatigue Detection
+# Industrial Worker Fatigue Detection Using Multimodal Physiological and Environmental Signals using TAN and GAN model
 
 This repository presents a **multimodal fatigue detection system** designed for industrial workers using physiological and environmental signals. The system leverages **signal processing, feature engineering, and machine learning/deep learning models** to estimate fatigue levels with high accuracy.
 
