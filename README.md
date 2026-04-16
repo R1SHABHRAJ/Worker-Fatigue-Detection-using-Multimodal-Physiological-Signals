@@ -422,8 +422,8 @@ The following table summarizes model performance across key evaluation metrics:
 | TAN (LSTM + Self + General Attention) | 0.9367     | 0.9217    | 0.9928     | 0.9409     |
 | cGAN + LSTM                           | 0.9082     | 0.8992    | 0.9767     | 0.9363     |
 | Baseline LSTM                         | 0.8859     | 0.8768    | 0.9713     | 0.9216     |
-| Logistic Regression                   | 0.8775     | 0.8478    | 1.0000     | 0.9176     |
-| SVM                                   | 0.8591     | 0.8289    | 1.0000     | 0.9064     |
+| Logistic Regression                   | 0.8775     | 0.8478    | 0.9900     | 0.9176     |
+| SVM                                   | 0.8591     | 0.8289    | 0.9980     | 0.9064     |
 | Random Forest                         | 0.8358     | 0.8591    | 0.9084     | 0.8831     |
 
 ---
