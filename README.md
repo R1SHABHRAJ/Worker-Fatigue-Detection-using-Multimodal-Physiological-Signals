@@ -547,7 +547,7 @@ Birla Institute of Technology
 
 This work is part of a study on:
 
-**Temporal Attention Network for Industrial Worker Fatigue Detection Using Multimodal Physiological and Environmental Signals**
+**Industrial Worker Fatigue Detection Using Multimodal Physiological and Environmental Signals**
 
 
 ---
